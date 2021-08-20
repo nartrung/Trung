@@ -85,6 +85,9 @@ body{
 #ins:hover{
     color: #db23c3;
 }
+#git:hover{
+    color: #4380B4;
+}
 .sm a:hover{
     color: #2e36ad;
 }
